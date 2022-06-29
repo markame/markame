@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markame</h1>
 <h3 align="center">A passionate backend and frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [LeishCam](https://github.com/markame/LeishCAM-PHP.git)
+- 🔭 I’m currently working on [LVCinfo](https://github.com/markame/LVCinfo.git)
 
 - 📫 How to reach me **mr.markame@gmail.com**
 
