@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋, I'm Markame</h2>
+<h1 align="center">Hi 👋, I'm Markame</h1>
+<h3 align="center">A passionate backend and frontend developer from Brazil</h3>
+
+- 🔭 I’m currently working on [LVCinfo](https://github.com/markame/LVCinfo.git)
+
+- 📫 How to reach me **mr.markame@gmail.com** or **marcosgsrocha@gmail.com**
 
 ###
 
