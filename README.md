@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7e7a57e2-a1bd-4206-8fd2-e05592231830)<h1 align="center">Hi 👋, I'm Markame</h1>
+<h1 align="center">Hi 👋, I'm Markame</h1>
 <h3 align="center">A passionate backend and frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [LVCinfo](https://github.com/markame/LVCinfo.git)
